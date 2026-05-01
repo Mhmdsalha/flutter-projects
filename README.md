@@ -1,4 +1,4 @@
-# Flutter Projects
+# ?????? Flutter | Flutter Projects
 
 A curated collection of Flutter applications gathered in one repository for portfolio, learning, and reference purposes. The repository includes UI practice projects, state-management exercises, and larger application samples such as news, e-commerce, and social apps.
 
@@ -58,3 +58,4 @@ flutter run
 ## License
 
 Shared for educational and portfolio purposes.
+
